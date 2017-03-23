@@ -4,12 +4,12 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* let
-	* const
-	* ES6 Classes
-	* import/export
-	* JSX
-	* this.props
+	* let - defines a variable that may change, only accessed within block code
+	* const - defines a variable that will not change, only accessed within block code
+	* ES6 Classes - similar to that of a function, contains the content or HTML that will be referred to when the class is referenced
+	* import/export - import necessary files into a class/js file. export files out similar to a return
+	* JSX - a form of HTML that is used in Babel, there are minor differences between it and XHTML
+	* this.props - a way to access properties that are passed in when referencing a React class
 
 
 2. Fork and clone this repo.  When you need to commit use the following commands.
