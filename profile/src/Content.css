@@ -1,0 +1,13 @@
+.content {  
+    padding:15px;
+    max-width:1000px;
+    margin:0 auto;
+    line-height: 1.5rem;
+}
+.content .photoBox { float:none;width:80%; margin: 0 10%; padding: 0;}
+.content img { max-width:100%;height:auto;}
+@media (min-width: 480px) {
+    .content .photoBox { float:right; width:40%; margin:0; padding: 0 0 10px 10px; }
+}
+a { color:#b54c68; text-decoration: none;}
+a:hover { text-decoration: underline;}
